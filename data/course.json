@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d91a8be5-776d-608a-488c-ad023d26c49c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Air Traffic Control",
+  "course_description": "This course introduces the various aspects of present and future Air Traffic Control systems. Among the topics in the present system that we will discuss are the systems-analysis approach to problems of capacity and safety, surveillance, including the National Airspace System and Automated Terminal Radar Systems, navigation subsystem technology, aircraft guidance and control, communications, collision avoidance systems and sequencing and spacing in terminal areas. The class will then talk about future directions and development and have a critical discussion of past proposals and of probable future problem areas.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.72",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
